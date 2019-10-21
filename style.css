@@ -24,7 +24,6 @@
 .column {
     float: left;
     padding: 0 15px;
-    border: 1px solid black;
     height: 500px;
 }
 
@@ -149,15 +148,38 @@ header {
 /*** inizio altre sezioni ... ***/
 #second {
     padding-top: 80px;
+    margin-bottom: 10%;
 }
 
 .product {
-    background-color: lightgrey;
-    padding: 10px;
-    height: 500px;
+    background-color: #FAFAFA;
+    padding: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.productlogo{
+    width: 35%;
+    margin-left: 30%
+}
+
+.productext{
+    margin: 5%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.productlink{
+    font-size: 20px;
+    margin-left: 35%;
+    color: #147BCC;
+    text-decoration-line: none;
 }
 
 .productimage{
-    height: 10%;
-    width: 30%;
+    width: 45%;
+    margin-top: 5%;
+    margin-left: 25%;
 }
+
+/* Fine Seconda Sezione */
