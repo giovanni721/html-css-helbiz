@@ -183,3 +183,48 @@ header {
 }
 
 /* Fine Seconda Sezione */
+
+#backgroundhowto{
+    background-image: url('https://helbiz.com/asset/pages/newhome/images/HelbizBanner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+#third{
+    position: relative;
+}
+
+#howtocontainer{
+    width: 70%;
+    margin: auto;
+}
+
+#howtotext{
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+#iphonecase{
+    width: 20%;
+    position: absolute;
+    left: 40%;
+    top: 20%;
+    z-index: 20;
+}
+
+#stepimage{
+    width: 12%;
+    left: 44%;
+    top: 25%;
+    z-index: 10;
+    position: absolute;
+}
+
+.steptext{
+    margin-left: 80%;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+/* Fine Terza Sezione */
